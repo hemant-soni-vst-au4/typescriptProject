@@ -29,4 +29,11 @@ Use case
 
 Syntax + feature v/s design pattren with TS
 
+1) Syntax + feature
+a) Types => Easy way to refer to different property + function that has value
+Primitive type -> string, number, boolean, void, null, undefined, symbol
+Object type -> Function, array, classes, object
 
+
+npm i -g parcel-bundler
+npx parcel index.html
