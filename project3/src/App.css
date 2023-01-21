@@ -1,0 +1,21 @@
+#app {
+  margin: 2em;
+}
+
+.assembly-data {
+  display: flex;
+  flex-direction:row;
+}
+
+.assembly-stage{
+  margin: 10px 30px 5px 0px;
+}
+/* .user {
+    flex: 1 1 0px;
+  
+} */
+
+button {
+  margin: 5px 0px;
+}
+
